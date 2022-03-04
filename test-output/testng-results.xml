@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-08T23:02:52 CST" name="Default suite" finished-at="2022-02-08T23:03:06 CST" duration-ms="13807">
+    <groups>
+    </groups>
+    <test started-at="2022-02-08T23:02:52 CST" name="Default test" finished-at="2022-02-08T23:03:06 CST" duration-ms="13807">
+      <class name="qaclickacademy.Mavenjava.ExtendReportDemo">
+        <test-method is-config="true" signature="config()[pri:0, instance:qaclickacademy.Mavenjava.ExtendReportDemo@5e0826e7]" started-at="2022-02-08T23:02:52 CST" name="config" finished-at="2022-02-08T23:02:52 CST" duration-ms="212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="init()[pri:0, instance:qaclickacademy.Mavenjava.ExtendReportDemo@5e0826e7]" started-at="2022-02-08T23:02:52 CST" name="init" finished-at="2022-02-08T23:03:06 CST" duration-ms="13558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+      </class> <!-- qaclickacademy.Mavenjava.ExtendReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
